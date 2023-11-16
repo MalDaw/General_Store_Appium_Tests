@@ -17,12 +17,12 @@
   </properties>
 
   <dependencies>
-    <!--    <dependency>-->
-    <!--      <groupId>junit</groupId>-->
-    <!--      <artifactId>junit</artifactId>-->
-    <!--      <version>4.13.2</version>-->
-    <!--      <scope>test</scope>-->
-    <!--    </dependency>-->
+        <dependency>
+          <groupId>junit</groupId>
+          <artifactId>junit</artifactId>
+          <version>4.13.2</version>
+          <scope>test</scope>
+        </dependency>
     <!-- https://mvnrepository.com/artifact/io.github.bonigarcia/webdrivermanager -->
     <dependency>
       <groupId>io.github.bonigarcia</groupId>
@@ -48,6 +48,7 @@
       <artifactId>java-client</artifactId>
       <version>9.0.0</version>
     </dependency>
+
     <dependency>
       <groupId>org.webjars.npm</groupId>
       <artifactId>github-com-blueimp-jQuery-File-Upload</artifactId>
